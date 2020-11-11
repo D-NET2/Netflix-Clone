@@ -43,7 +43,35 @@
 }
 
 .banner-container h2{
- font-size: 3.125rem;
- font-weight: 600;
+ font-size: 1.625rem;
+ font-weight: 400;
  text-align: center;
+ margin: 16px 155px 16px 155px;
+}
+
+.banner-container h3{
+ font-size: 1.2rem;
+ padding-bottom: 20px;
+ font-weight: 400;
+ text-align: center;
+ padding: 0px 47.5px 20px 47.5px;
+}
+
+.banner-container form{
+ display: flex;
+}
+
+.banner-container input {
+ height: 60px;
+ width: 450px;
+ border: none;
+ color: #8c8c8c;
+ padding-left: 8px;
+}
+
+.banner-container button{
+ border: none;
+ padding: .7rem 30px;
+ background-color: #dd0511;
+ font-size: 26px;
 }
