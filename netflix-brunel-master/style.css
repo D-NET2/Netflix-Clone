@@ -7,6 +7,7 @@
  padding: 0;
  color: white;
  font-size: 16px;
+ text-decoration: none;
 }
 
 .banner-wrap {
@@ -74,4 +75,11 @@
  padding: .7rem 30px;
  background-color: #dd0511;
  font-size: 26px;
+}
+
+.btn{
+ background-color: #dd0511;
+ border-radius: 3px;
+ padding: 7px 17px;
+ text-decoration: none;
 }
