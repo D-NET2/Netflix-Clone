@@ -60,6 +60,7 @@
 
 .banner-container form{
  display: flex;
+
 }
 
 .banner-container input {
@@ -82,4 +83,10 @@
  border-radius: 3px;
  padding: 7px 17px;
  text-decoration: none;
+}
+
+.info-container{
+ display: flex;
+ background: black;
+ align-items: center;
 }
