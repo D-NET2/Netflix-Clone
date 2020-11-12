@@ -139,7 +139,7 @@ h2 {
 
     font-size: 18px;
     line-height: 32px;
-    font
+  
   
 }
 
@@ -150,22 +150,26 @@ h2 {
 
 
 .info1{
-    background: green;
     padding: 0 30px 0 0;
-  
 }
 
 
 .info2{
-    background: brown;
+
     padding: 0 30px 0 0;
 }
 
 .info3{
-    background: green;
+
+    padding: 0 30px 0 0;
 }
 
 .info4{
-    background: brown;
+
+    padding: 0 30px 0 0;
+}
+
+.listc{
+    color: #4c4948;
 }
 
