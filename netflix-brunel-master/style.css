@@ -128,3 +128,12 @@ h2 {
     position: absolute;
     top: 20%;
 }
+
+
+.info-container1 {
+    display: flex;
+    background: black;
+    align-items: center;
+    padding: 70px 100px;
+    border-top: 8px solid #222;
+}
