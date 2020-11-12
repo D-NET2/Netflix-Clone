@@ -132,8 +132,25 @@ h2 {
 
 .info-container1 {
     display: flex;
-    background: black;
-    align-items: center;
+    background:black; 
+    
     padding: 70px 100px;
     border-top: 8px solid #222;
 }
+
+.info1{
+    background: green;
+}
+
+.info2{
+    background: brown;
+}
+
+.info3{
+    background: green;
+}
+
+.info4{
+    background: brown;
+}
+
