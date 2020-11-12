@@ -128,3 +128,44 @@ h2 {
     position: absolute;
     top: 20%;
 }
+
+
+.info-container1 {
+    display: flex;
+    background:black; 
+    justify-content: space-between;
+    padding: 70px 100px;
+    border-top: 8px solid #222;
+
+    font-size: 18px;
+    line-height: 32px;
+    font
+  
+}
+
+.info-container1 ul {
+    list-style-type: none;
+}
+
+
+
+.info1{
+    background: green;
+    padding: 0 30px 0 0;
+  
+}
+
+
+.info2{
+    background: brown;
+    padding: 0 30px 0 0;
+}
+
+.info3{
+    background: green;
+}
+
+.info4{
+    background: brown;
+}
+
