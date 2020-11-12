@@ -130,3 +130,48 @@ h2 {
 }
 
 
+.info-container1 {
+    display: flex;
+    background:black; 
+    justify-content: space-between;
+    padding: 70px 100px;
+    border-top: 8px solid #222;
+
+    font-size: 18px;
+    line-height: 32px;
+  
+  
+}
+
+.info-container1 ul {
+    list-style-type: none;
+}
+
+
+
+.info1{
+
+    padding: 0 30px 0 0;
+  
+}
+
+
+.info2{
+
+    padding: 0 30px 0 0;
+}
+
+.info3{
+
+    padding: 0 30px 0 0;
+}
+
+.info4{
+
+    padding: 0 30px 0 0;
+}
+
+.listc{
+    color: #4c4948;
+}
+
