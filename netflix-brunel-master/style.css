@@ -139,8 +139,15 @@ h2 {
 
     font-size: 18px;
     line-height: 32px;
-  
-  
+}
+
+
+.our-story-card-video1 {
+    display: flex;
+    background: black;
+    align-items: center; 
+    padding-bottom: 400px;
+    width: 400px;
 }
 
 .info-container1 ul {
