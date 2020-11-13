@@ -10,6 +10,7 @@
     text-decoration: none;
 
 }
+
 .banner-wrap {
     background: url(./assets/bgimage.jpg) 0 0 no-repeat;
     padding: 0;
@@ -142,11 +143,15 @@ h2 {
 
 
 .our-story-card-video1 {
-    display: flex;
-    background: black;
-    align-items: center; 
+    display: relative; 
+    top: 2px;
     padding-bottom: 400px;
     width: 400px;
+}
+.video1 {
+    position: absolute;
+    top: 10%;
+    left: 18%;
 }
 
 .info-container1 ul {
